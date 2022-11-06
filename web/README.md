@@ -10,7 +10,7 @@ Links:
 
 - [Live Preview](http://demos.creative-tim.com/light-bootstrap-dashboard/examples/dashboard.html?ref=github-repo)
 - [Video Tutorial](https://www.youtube.com/watch?v=c3M3NQtFyqM)
-- [Light Bootstrap Dashboard PRO](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro) (from $39)
+- [Light Bootstrap Dashboard PRO](https://www.creative-tim.com/product/light-bootstrap-dashboard-pro)
 
 Quick start
 
