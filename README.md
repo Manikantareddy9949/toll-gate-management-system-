@@ -1,14 +1,16 @@
 # toll-gate-management-system-
  
-    KEEP ALL THIS IN SINGLE FOLDER "tolgate" :
-     build folder
-     dist folder
-     lib folder
-     nbproject folder 
-     setup folder
-     src folder
-     web folder
-     build.xml folder
+ To run the project
+ 
+    KEEP ALL THIS IN SINGLE FOLDER "tollgate" :
+     1.build folder
+     2.dist folder
+     3.lib folder
+     4.nbproject folder 
+     5.setup folder
+     6.src folder
+     7.web folder
+     8.build.xml folder
      
      
      HOW TO RUN:
